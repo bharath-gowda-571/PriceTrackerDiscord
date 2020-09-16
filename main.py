@@ -5,7 +5,7 @@ from scraping import get_product_info_flipkart
 import sqlite3
 from discord.utils import find
 
-TOKEN = "NzUxNDAyNzYxNzg2MjI4NzY4.X1IkWg.VdNrZeITZm6w3Z0D3hSuCj4DzL8"
+TOKEN = "**YOUR BOT TOKEN**"
 
 bot = commands.Bot(command_prefix='sb!')
 
